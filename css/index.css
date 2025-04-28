@@ -3388,6 +3388,7 @@ figure.highlight pre .javascript .function {
   top: 200px;
   padding: 0 10px;
   width: 100%;
+  visibility: hidden;
 }
 @media screen and (max-width: 768px) {
   #page-header #page-site-info {
